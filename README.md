@@ -1,5 +1,5 @@
 
-# 🔐 Build Your Own Zero-Trust NAS
+# 🔐 Build Your Own NAS
 
 ## Nextcloud + Tailscale (No Port Forwarding. No Public Exposure.)
 
