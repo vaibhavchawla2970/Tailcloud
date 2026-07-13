@@ -1,5 +1,5 @@
 
-# 🔐 Access Your Files ANYWHERE You Go
+# 🔐 Access Your Files ANYWHERE you go
 
 ## Nextcloud + Tailscale (No Port Forwarding. No Public Exposure.)
 
